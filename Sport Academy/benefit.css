@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.help{
+    background-color: rgba(255, 188, 62, 0.993);
+}
+
+.help1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 200;
+    margin-top: 30px;
+}
+
+p{
+    font-size: medium;
+    text-align: justify
+    text-align: ;
+}
+
+.image{
+    margin-left: 270px;
+    border: 2px solid black;
+}

@@ -1,0 +1,57 @@
+
+.navbar{
+    display:flex;
+    align-items: center;
+    color:#ff8418; ;
+ }
+.navbar a{
+    color: #ff6f07;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 90px 90px;
+    text-align: center;
+ }
+.nav{
+   border: 10px;
+   background-color: aqua;
+}
+
+.bac{
+   background-image:url(/bk3.png) ;
+   background-size: cover;
+  
+   }
+.but{
+   border: none;
+   display: inline-block;
+   width: auto;
+}
+.header-icons{
+   display:flex;
+   align-items:left;
+   padding: 30px 30px;
+}
+.header-icons i{
+   margin-right: 20px;
+   font-size: 24px;
+   color:var(--text-color);
+   transition: all,40s ease;
+   margin-right :15px;
+}
+.header-icons i:hover{
+   transform: scale(2);
+   color:rgb(189, 24, 183);
+}
+#menu-icon{
+   font-size: 34px;
+   color:var(--text-color);
+   z-index: 10001;
+   cursor: pointer;
+   display: none;
+}
+.hometxt{
+   text-align:center;
+   font-family:'Franklin Gothic Medium';
+   font-size: large;
+   display: flex;
+}
